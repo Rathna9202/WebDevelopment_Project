@@ -3,6 +3,7 @@ Project Summary: CR Sneakers E-commerce Website
 The CR Sneakers website is an e-commerce platform developed for selling a wide variety of sneakers. The website was built using HTML, CSS, and JavaScript, offering users a seamless and user-friendly shopping experience.
 
 Key features include:
+
 Responsive Design: 
       The website adapts to different screen sizes, ensuring an optimal browsing experience on both desktop and mobile devices.
       
